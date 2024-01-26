@@ -1,0 +1,12 @@
+@media all and (max-width : 992px){
+     .content .game .borderr .height{
+          height: 305px;
+     }
+     
+}
+@media all and (max-width : 767px){
+     .content .game .borderr .height{
+          height: 380px;
+     }
+     
+}
